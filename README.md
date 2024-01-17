@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **demiralaymelikeirem@gmail.com**
 
+- <iframe src="https://giphy.com/embed/gEWCCMnM1Sv2shQwwu" width="479" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gEWCCMnM1Sv2shQwwu">via GIPHY</a></p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melike-demiralay) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@melikedemiralay) 
 
