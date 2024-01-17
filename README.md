@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **web development**
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdqYjl2OXdrd3I3cXA5YXlsdXRkN3V5cTlwZmkwczJzd2hnaHd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PLI0JkhzvLK6vpWkBA/giphy.gif" alt="SoftwareCat" align="right" width="150">
+</div>
+
+- 🔭 I’m currently working on **web development**     
 
 - 🌱 I’m currently learning **frontend development**
 
 - 📫 How to reach me **demiralaymelikeirem@gmail.com**
+
 
 
 ## 🌐 Socials:
